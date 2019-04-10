@@ -1,2 +1,4 @@
 # Soft-Crash-Course
-Soft Crash Course 1 Bohdan
+
+Soft Crash Course 1
+
