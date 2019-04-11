@@ -12,3 +12,7 @@ function showAlert(message, success = true) {
         $('.alert').alert('close');
     }, 1000);
 }
+ Nazar
+
+
+ master
